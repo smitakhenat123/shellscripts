@@ -7,4 +7,4 @@ read b
 echo "Hello value of a is $a and value of b is $b"
 echo "Do you understand the script?"
 echo "Yes I understand"
-echo "No I don not understand"
+echo "No I do not understand"
